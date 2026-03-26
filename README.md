@@ -1,6 +1,6 @@
 # 🎬 Netflix Data Analytics Project  
 
-![Netflix Dashboard](assets/netflix_dashboard.png)
+![Netflix Dashboard](Netflix.png)
 
 ---
 
