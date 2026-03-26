@@ -1,5 +1,5 @@
 # 🎬 Netflix Data Analytics Project  
-
+![image](https://image2url.com/r2/default/images/1774528436789-22829e21-9dff-487f-83a2-95d1099a421d.png)
 ## 📌 Overview  
 
 This project focuses on analyzing Netflix-style streaming data to extract meaningful insights using **SQL** and **Power BI**. The objective is to transform raw data into actionable insights that help understand content trends, user preferences, and platform performance.
