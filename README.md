@@ -62,7 +62,7 @@ Key questions answered:
 
 ## 📸 Dashboard Preview
 
-![Netflix Dashboard](https://image2url.com/r2/default/images/1774527972901-903686c3-62bf-408a-84fa-0174b6f17995.png)
+![Netflix Dashboard](![image](https://image2url.com/r2/default/images/1774527972901-903686c3-62bf-408a-84fa-0174b6f17995.png))
 
 ---
 
