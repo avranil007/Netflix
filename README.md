@@ -1,8 +1,13 @@
 # 🎬 Netflix Data Analytics Project  
-![image](https://image2url.com/r2/default/images/1774528436789-22829e21-9dff-487f-83a2-95d1099a421d.png)
+
+![Netflix Dashboard](assets/netflix_dashboard.png)
+
+---
+
 ## 📌 Overview  
 
-This project focuses on analyzing Netflix-style streaming data to extract meaningful insights using **SQL** and **Power BI**. The objective is to transform raw data into actionable insights that help understand content trends, user preferences, and platform performance.
+This project analyzes Netflix-style streaming data to extract meaningful insights using **SQL (MS SQL Server)** and **Power BI**.  
+The objective is to transform raw data into actionable insights that help understand content trends, user behavior, and platform performance.
 
 ---
 
@@ -23,72 +28,77 @@ This project focuses on analyzing Netflix-style streaming data to extract meanin
 
 ### 1️⃣ Data Collection  
 - Imported dataset containing Netflix content details  
-- Data fields include: Title, Genre, Release Year, Ratings, Duration, Country, etc.  
+- Fields include: Title, Genre, Release Year, Ratings, Duration, Country  
 
 ### 2️⃣ Data Cleaning (SQL)  
 - Removed null and duplicate records  
-- Standardized inconsistent formats (dates, text fields)  
-- Handled missing values using SQL techniques  
+- Standardized formats (dates, text fields)  
+- Handled missing values efficiently  
 
 ### 3️⃣ Data Transformation (SQL)  
-- Created derived columns (content categories, duration buckets)  
+- Created derived columns (content categories, duration groups)  
 - Aggregated data (genre-wise, country-wise, yearly trends)  
-- Applied joins, GROUP BY, and window functions for deeper analysis  
+- Used joins, GROUP BY, and window functions  
 
 ### 4️⃣ Data Analysis  
-Key business questions explored:  
+Key business questions answered:  
 - Which genres are most popular?  
 - Which countries produce the most content?  
-- How has content production evolved over time?  
-- What is the distribution of Movies vs TV Shows?  
+- How has content production changed over time?  
+- What is the Movies vs TV Shows distribution?  
 
 ### 5️⃣ Data Visualization (Power BI)  
-- Developed interactive dashboards  
-- Implemented slicers and filters for dynamic insights  
-- Visualizations include:  
+- Built interactive dashboards  
+- Applied slicers and filters for dynamic exploration  
+- Key visuals:  
   - Genre distribution  
-  - Year-wise content growth  
+  - Yearly growth trends  
   - Country-wise production  
   - Ratings analysis  
-
----
-
-## 📸 Dashboard Preview  
-
-![Netflix Dashboard](https://image2url.com/r2/default/images/1774528436789-22829e21-9dff-487f-83a2-95d1099a421d.png)
 
 ---
 
 ## 📈 Key Insights  
 
 - 📌 Drama and Comedy dominate the platform  
-- 📌 Rapid growth in content production after 2015  
+- 📌 Rapid content growth observed after 2015  
 - 📌 Movies significantly outnumber TV Shows  
-- 📌 A few countries contribute the majority of content  
+- 📌 Content production is concentrated in a few countries  
 
 ---
 
 ## 🚀 How to Use  
 
 1. Clone this repository  
-2. Execute SQL scripts in **MS SQL Server**  
-3. Import the processed dataset into **Power BI**  
-4. Open the `.pbix` file to explore the dashboard  
+2. Run SQL scripts in **MS SQL Server**  
+3. Load processed data into **Power BI**  
+4. Open `.pbix` file to explore dashboard  
 
 ---
 
-## 🎯 Conclusion  
+## 🎯 Project Highlights  
 
-This project demonstrates how raw entertainment data can be transformed into meaningful insights using **SQL and Power BI**. It reflects real-world business intelligence workflows and supports data-driven decision-making.
+✔ End-to-end data analytics workflow  
+✔ Real-world business intelligence use case  
+✔ Strong use of SQL transformations  
+✔ Interactive and dynamic Power BI dashboard  
 
 ---
 
 ## 🙌 Future Improvements  
 
 - Integrate real-time streaming datasets  
-- Perform user-level behavioral analysis  
-- Implement predictive analytics using Python or ML models  
+- Add user-level behavioral analytics  
+- Implement predictive analytics using Python/ML  
 
 ---
 
-⭐ If you found this useful, consider giving it a star!
+## ⭐ Support  
+
+If you found this project useful, consider giving it a **star ⭐**  
+
+---
+
+## 👨‍💻 Author  
+
+**Avranil Dutta**  
